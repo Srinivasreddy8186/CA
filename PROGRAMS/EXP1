@@ -1,7 +1,0 @@
-Two 8 bit addition program:
-LDA 2300
-MOV B,A
-LDA 2301
-ADD B
-STA 2302
-HLT
